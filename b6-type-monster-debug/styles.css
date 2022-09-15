@@ -62,18 +62,18 @@ body {
   display: none;
 }
 #result {
-  position: fixed;
   top: 10%; 
   left: 10%;
   transform: translate(-50%, -50%);
-  height: 250px;
-  width: 400px;
+  height: 40%;
+  width: 50%;
   background-color: #171717;
   border-radius: 15px;
   border: 2px solid #9dffad;
   color: white;
   text-align: center;
   padding: 2rem;
+  margin-left: auto;
 }
 #show-time{
   text-align: center;
